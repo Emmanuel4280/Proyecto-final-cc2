@@ -1,8 +1,8 @@
 /* ProcesoAritmetico.java */
 
 /**
- * Hecho por: Wiliam Alejando Ruiz Zelada
- * Carnet: 21004892
+* Hecho por: Wiliam Alejando Ruiz Zelada, Emmanuel Goméz, Xavier lechuga
+ * Carnet: 21004892,22000118,22004986
  * Seccion: A
  */
 
